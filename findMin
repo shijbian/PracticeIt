@@ -7,3 +7,5 @@ public static int findMin (int[] list) {
 		}
     return temp;
 }
+
+
